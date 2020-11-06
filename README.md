@@ -16,6 +16,8 @@ Search within the QGIS Processing Toolbox, but also for other FOSS projects (als
 ##### 3. Implement the calculation of the TWI as an automatized workflow using the QGIS Model Builder. 
 A raster file containing a digital elevation model (DEM) can be downloaded from [here](https://heibox.uni-heidelberg.de/f/d0392835aa3b43a7a676/). For a short tutorial on the Model Builder watch this [video](https://www.youtube.com/watch?v=eZb5VLTc9-o&t=449s).
 
+##### 4. Add your model to your forked repository by creating a commit and pushing it to GitHub. 
+
 
 #### References
 
