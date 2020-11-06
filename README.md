@@ -14,7 +14,15 @@ Search within the QGIS Processing Toolbox, but also for other FOSS projects (als
 
 
 ##### 3. Implement the calculation of the TWI as an automatized workflow using the QGIS Model Builder. 
-A raster file containing a digital elevation model (DEM) can be downloaded from [here](https://heibox.uni-heidelberg.de/f/d0392835aa3b43a7a676/). For a short tutorial on the Model Builder watch this [video](https://www.youtube.com/watch?v=eZb5VLTc9-o&t=449s).
+
+The data for this analysis can be downloaded from [here](https://heibox.uni-heidelberg.de/f/d0392835aa3b43a7a676/). It contains a SRTM digital elevation model (DEM) with 1 arc second resolution and a vector file containing the area of interest (AOI), a region on the coast of Slovenia.  
+
+The workflow should contain the following components:
+1. Clip the DEM to the study area. 
+2. If necessary, preprocess the DEM. 
+2. Calculate the TWI. 
+
+**Note:** For a short tutorial on the Model Builder watch this [video](https://www.youtube.com/watch?v=eZb5VLTc9-o&t=449s).
 
 ##### 4. Add your model to your forked repository by creating a commit and pushing it to GitHub. 
 
