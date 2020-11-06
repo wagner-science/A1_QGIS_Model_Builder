@@ -8,11 +8,9 @@ The Topographic Wetness Index (TWI) can be used within flood risk analysis as de
   1. What is the Topographic Wetness Index? 
   2. What input data and parameters are required?
   3. How are the TWI values related to the flood probability?
-  4. Why do they use the TWI instead of a hydrological model to derive flood prone areas?
-  5. What are the limitations of using the TWI to map flood prone areas?
   
-  
-##### 2. Search for FOSS GIS tools to calculate the TWI. Search within the QGIS Processing Toolbox, but also for other FOSS projects (also R or Python based) on github for example.
+##### 2. Search for FOSS GIS tools to calculate the TWI. 
+Search within the QGIS Processing Toolbox, but also for other FOSS projects (also R or Python based) on github for example.
 
 
 ##### 3. Implement the calculation of the TWI as an automatized workflow using the QGIS Model Builder. 
