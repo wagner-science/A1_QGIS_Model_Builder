@@ -13,7 +13,7 @@ The Topographic Wetness Index (TWI) can be used within flood risk analysis as de
 Search within the QGIS Processing Toolbox, but also for other FOSS projects (also R or Python based) on github for example.
 
 
-#### 3. Implement the calculation of the TWI as an automatized workflow using the QGIS Model Builder. 
+#### 3. Implement the calculation of the TWI using the QGIS Model Builder. 
 
 The data for this analysis can be downloaded from [here](https://heibox.uni-heidelberg.de/f/d0392835aa3b43a7a676/). It contains a SRTM digital elevation model (DEM) with 1 arc second resolution and a vector file containing the area of interest (AOI), a region on the coast of Slovenia.  
 
