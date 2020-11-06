@@ -1,1 +1,4 @@
-# 01_TopographicWetnessIndex
+# Calculating the Topographic Wetness Index (TWI)
+
+
+
