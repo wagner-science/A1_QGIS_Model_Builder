@@ -1,4 +1,4 @@
-# Assignment 1, part 1: Automated GIS Analyses using the QGIS Model Builder
+# Assignment 1 - Part 1: Automated GIS Analyses using the QGIS Model Builder
 
 This is the first part of assignment 1. The second part will follow next week. 
 
