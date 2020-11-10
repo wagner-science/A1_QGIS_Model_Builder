@@ -1,9 +1,12 @@
-# Automated GIS Analyses using the QGIS Model Builder
+# Assignment 1, part 1: Automated GIS Analyses using the QGIS Model Builder
 
-In this assignment you will use the QGIS Model Builder within the QGIS Processing Toolbox to calculate the Topographic Wetness Index (TWI).
-This index is frequently used within flood risk analysis as described by [Pourali et al (2016)](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s12061-014-9130-2.pdf&casa_token=556pHuCiUZQAAAAA:WO37dPPHnd7NObyhuElNhxtywKsM0oq7Z9WX6odYtXlU_oGh7VyPl4_blLJZXa4u8ztt05CSVIkqj_O_ku0). 
+This is the first part of assignment 1. The second part will follow next week. 
 
-**Within this group assignment you should do the following exercises:**
+This is a **group assignment** in which you are supposed to work in pairs. 
+
+**Submission deadline is Nov 27 2020 along with part 2.**
+
+In this assignment you will use the QGIS Model Builder within the QGIS Processing Toolbox to calculate the Topographic Wetness Index (TWI) for a study area in Slovenia. This index is frequently used within flood risk analysis as described by [Pourali et al (2016)](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s12061-014-9130-2.pdf&casa_token=556pHuCiUZQAAAAA:WO37dPPHnd7NObyhuElNhxtywKsM0oq7Z9WX6odYtXlU_oGh7VyPl4_blLJZXa4u8ztt05CSVIkqj_O_ku0). 
 
 #### 1. Answer the following questions:
   1. What is the Topographic Wetness Index? 
