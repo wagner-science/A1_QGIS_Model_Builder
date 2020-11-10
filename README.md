@@ -3,18 +3,22 @@
 In this assignment you will use the QGIS Model Builder within the QGIS Processing Toolbox to calculate the Topographic Wetness Index (TWI).
 This index is frequently used within flood risk analysis as described by [Pourali et al (2016)](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s12061-014-9130-2.pdf&casa_token=556pHuCiUZQAAAAA:WO37dPPHnd7NObyhuElNhxtywKsM0oq7Z9WX6odYtXlU_oGh7VyPl4_blLJZXa4u8ztt05CSVIkqj_O_ku0). 
 
-**Within this group assignment you should to the following exercises:**
+**Within this group assignment you should do the following exercises:**
 
 #### 1. Answer the following questions:
   1. What is the Topographic Wetness Index? 
   2. How are the TWI values related to the flood probability?
   
-Write your answer in a new file called answers.txt in this repository. After you are done, create a commit containing the the new file and push it to GitHub. You can find an introduction to git and two videos in the [wiki](https://github.com/fossgis2021/home/wiki/git)
+Write your answer in a new file called answers.txt in this repository. 
+
+**&rarr; Synchronize with git** Create a commit containing the the new file _answers.txt_ and push it to GitHub. You can find an introduction to git and two videos in the [wiki](https://github.com/fossgis2021/home/wiki/git)
   
 #### 2. Search for FOSS GIS tools to calculate the TWI. 
 Search within the QGIS Processing Toolbox, but also for other FOSS projects (also R or Python based) on github for example.
 
-Add your answer to the answers.txt in this repository. After you are done, create a commit containing the edited file answers.txt and push it to GitHub. You can find an introduction to git and two videos in the [wiki](https://github.com/fossgis2021/home/wiki/git)
+Add your answer to the answers.txt in this repository. 
+
+**&rarr; Synchronize with git** Create a commit containing the edited file _answers.txt_ and push it to GitHub. You can find an introduction to git and two videos in the [wiki](https://github.com/fossgis2021/home/wiki/git)
 
 #### 3. Implement the calculation of the TWI using the QGIS Model Builder. 
 
@@ -27,7 +31,7 @@ Create a model within the QGIS Model Builder which contains the following proces
 
 **Note:** For a short tutorial on the Model Builder watch this [video](https://www.youtube.com/watch?v=eZb5VLTc9-o&t=449s).
 
-When your model is done, copy it to your repository. Create a commit and pushing it to GitHub. 
+**&rarr; Synchronize with git** When your model is done, copy it to your repository. Create a commit and pushing it to GitHub. 
 
 
 #### References
