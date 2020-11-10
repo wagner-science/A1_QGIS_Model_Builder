@@ -31,7 +31,7 @@ Create a model within the QGIS Model Builder which contains the following proces
 
 **Note:** For a short tutorial on the Model Builder watch this [video](https://www.youtube.com/watch?v=eZb5VLTc9-o&t=449s).
 
-**&rarr; Synchronize with git** When your model is done, copy it to your repository. Create a commit and pushing it to GitHub. 
+**&rarr; Synchronize with git** Copy your your \*.model file to your repository. Create a commit and pushing it to GitHub. 
 
 
 #### References
