@@ -2,9 +2,11 @@
 
 This is the first part of assignment 1. The second part will follow next week. 
 
-This is a **group assignment** in which you are supposed to work in pairs. 
+**Submission deadline is Friday, Nov 20 2020 on your forked GitHub repository.**
 
-**Submission deadline is Friday, Nov 20 2020 on your GitHub repository.**
+This is a **group assignment** in which you are supposed to solve these exercises in pairs of two students. Please explain things to each other especially git and the Model Builder if one of you already has experience with it. 
+
+**Practice git:** In this assignment you will practice using git. Although you will solve the exercises together as a group, every student should fork this repository using their own account, clones it to their computer and create at least one commit. We will practice collaborating on the same repository later in the course. 
 
 In this assignment you will use the QGIS Model Builder within the QGIS Processing Toolbox to calculate the Topographic Wetness Index (TWI) for a study area in Slovenia. This index is frequently used within flood risk analysis as described by [Pourali et al (2016)](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s12061-014-9130-2.pdf&casa_token=556pHuCiUZQAAAAA:WO37dPPHnd7NObyhuElNhxtywKsM0oq7Z9WX6odYtXlU_oGh7VyPl4_blLJZXa4u8ztt05CSVIkqj_O_ku0). 
 
