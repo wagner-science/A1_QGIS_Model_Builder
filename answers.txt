@@ -1,6 +1,10 @@
-1.1 Der TWI ist ein Indikator zur Beschreibung des Wassergehaltes von Vegetationsflächen unterschiedlicher Dichte und mit unterschiedlichen Bodenanteilen. Er ist auch bekannt als compound topographic index (CTI)
+1.1 
+Der TWI ist ein Indikator zur Beschreibung des Wassergehaltes von Vegetationsflächen unterschiedlicher Dichte und mit unterschiedlichen Bodenanteilen. Er ist auch bekannt als compound topographic index (CTI)
 
-1.2 Je höher der TWI Wert, desto höher ist die Hochwasser Wahrscheinlichkeit.
+1.2 
+Je höher der TWI Wert, desto höher ist die Hochwasser Wahrscheinlichkeit.
 
- 
-
+2 
+QGIS 2.14: 	Topographic wetness index (twi)
+SAGA:		Terrain Analysis - Hydrology -> Topographic wetness index (twi)
+GRASS GIS: 	r.topidx
